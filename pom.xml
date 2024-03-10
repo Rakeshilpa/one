@@ -34,7 +34,7 @@
                 </dependency>
 
         </dependencies>
-
+<plugin>
         <distributionManagement>
                  <snapshotRepository>
                     <id>nexusRepo</id>
